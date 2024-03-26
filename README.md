@@ -1,4 +1,4 @@
-## **SDCS: Subspace Dynamic Combined Sparsity-Based Hyper-Sharpening for Diverse Auxiliary Images, 2024.**
+## **SDCS: Subspace Dynamic Combined Sparsity-Based Hyper-Sharpening for Diverse Auxiliary Images, TGRS, 2024.**
 
 <p align="center"><img src="SDCS_GA.png" width="50%" align="center"></p>
 
